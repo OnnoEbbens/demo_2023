@@ -8,8 +8,4 @@ if today.month == 8 and today.day == 31:
 
 print(today)
 
-<<<<<<< HEAD
-print('additionally')
-=======
 print('adasdfasdditionalyyy')
->>>>>>> develop_2
