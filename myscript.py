@@ -8,4 +8,4 @@ if today.month == 8 and today.day == 31:
 
 print(today)
 
-print('addition')
+print('additionally')
